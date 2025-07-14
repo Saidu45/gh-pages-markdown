@@ -1,1 +1,1 @@
-# gu-pages-markdown
+# gh-pages-markdown
